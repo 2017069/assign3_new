@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         
-          ammar ahmed 2017069
+          ammar ahmad 2017069
 
       </header>
     </div>
